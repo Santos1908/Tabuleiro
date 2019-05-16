@@ -1,0 +1,31 @@
+.topo{
+	position:relative;
+	width:1024px;
+	height:150px;
+	background-color: #A9A9A9;
+}
+
+.esquerda{
+	position:relative;
+	width:250px;
+	height:550px;
+	background-color: #A9A9A9;
+}	
+
+.menu{
+	position:absolute;
+	top:158px;
+	left:257px;
+	width:775px;
+	height:550px;
+	background-color:#FFFFFF;
+}
+
+.rodape{
+	position:relative;
+	top:388px;
+	left:-257px;
+	width:1024px;
+	height:50px;
+	background-color:#A9A9A9;
+}
